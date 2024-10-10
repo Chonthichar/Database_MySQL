@@ -16,6 +16,4 @@ For full details, including SQL scripts and data schema, please refer to the fol
 - `queries.sql`
 - `petClinic_solution.pdf`
 
-[View the Full Report](petClinic_solution.pdf)
-
 For more details, you can view the full report here: [Download the Report](petClinic_solution.pdf)
